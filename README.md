@@ -183,3 +183,4 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 3. **Topics do Repositório**: Ao criar o repositório, adicione as tags: `python`, `tkinter`, `calculator`, `finance`, `decimal`, `brazil`.
 
 O que achou dessa versão? Ela espelha a qualidade do seu projeto *CIPHER AUDIT*, destacando a separação de responsabilidades e a robustez das validações, que são pontos fortes do seu código. Posso ajustar qualquer seção se quiser!
+# calculadora-porcentagem
